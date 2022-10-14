@@ -1,0 +1,1558 @@
+Customer:customerID:56, firstName:'Christian', lastName:'Gomez', balance:2275932.20875
+[	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:VIP	Total Tickets:6	Total Amount:1915.875	Transaction number:462070
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:45	Seat:Silver	Total Tickets:3	Total Amount:70.003125	Transaction number:854449
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Silver	Total Tickets:6	Total Amount:128.21625	Transaction number:336537
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:Bronze	Total Tickets:6	Total Amount:114.9525	Transaction number:263440
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:Gold	Total Tickets:3	Total Amount:84.888	Transaction number:301554
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:23	Seat:Silver	Total Tickets:3	Total Amount:75.16125	Transaction number:953037
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:Gold	Total Tickets:3	Total Amount:76.92975000000001	Transaction number:942494
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:VIP	Total Tickets:6	Total Amount:4377.3912	Transaction number:650851
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:General Admission	Total Tickets:6	Total Amount:36.84375	Transaction number:563749
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:Silver	Total Tickets:2	Total Amount:853.02615	Transaction number:872900
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:63	Seat:Silver	Total Tickets:6	Total Amount:2303.47125	Transaction number:135078
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:Silver	Total Tickets:5	Total Amount:110.53125	Transaction number:552075
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:59	Seat:Silver	Total Tickets:4	Total Amount:1646.1591	Transaction number:95739
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:39	Seat:VIP	Total Tickets:3	Total Amount:105.22575	Transaction number:726242
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:52	Seat:Bronze	Total Tickets:2	Total Amount:30.712950000000003	Transaction number:955841
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:Bronze	Total Tickets:2	Total Amount:43.426500000000004	Transaction number:439370
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:38	Seat:VIP	Total Tickets:3	Total Amount:92.84625	Transaction number:951775
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:44	Seat:Bronze	Total Tickets:6	Total Amount:114.9525	Transaction number:844429
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Silver	Total Tickets:6	Total Amount:128.21625	Transaction number:250908
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:Silver	Total Tickets:6	Total Amount:132.6375	Transaction number:689143
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:38	Seat:General Admission	Total Tickets:4	Total Amount:58.95	Transaction number:829767
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:37	Seat:VIP	Total Tickets:3	Total Amount:105.22575	Transaction number:736353
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:Gold	Total Tickets:6	Total Amount:1267.425	Transaction number:904993
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:17	Seat:Silver	Total Tickets:3	Total Amount:75.16125	Transaction number:931546
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:32	Seat:General Admission	Total Tickets:4	Total Amount:58.95	Transaction number:928458
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:24	Seat:Silver	Total Tickets:6	Total Amount:132.6375	Transaction number:133710
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:39	Seat:Silver	Total Tickets:3	Total Amount:75.16125	Transaction number:683604
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:30	Seat:General Admission	Total Tickets:5	Total Amount:73.6875	Transaction number:215141
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:26	Seat:General Admission	Total Tickets:2	Total Amount:29.475	Transaction number:971632
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:16	Seat:Gold	Total Tickets:6	Total Amount:159.16500000000002	Transaction number:194983
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:VIP	Total Tickets:5	Total Amount:175.37625	Transaction number:51387
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:53	Seat:Gold	Total Tickets:5	Total Amount:132.048	Transaction number:574564
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:7	Seat:Gold	Total Tickets:3	Total Amount:79.58250000000001	Transaction number:209206
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:Silver	Total Tickets:4	Total Amount:88.425	Transaction number:105000
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:VIP	Total Tickets:3	Total Amount:92.84625	Transaction number:163654
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:5	Seat:VIP	Total Tickets:5	Total Amount:154.74375	Transaction number:144758
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:VIP	Total Tickets:6	Total Amount:185.6925	Transaction number:49778
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:Gold	Total Tickets:4	Total Amount:105.6384	Transaction number:503178
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Silver	Total Tickets:4	Total Amount:100.215	Transaction number:338504
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Silver	Total Tickets:2	Total Amount:50.1075	Transaction number:52292
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:68	Seat:Bronze	Total Tickets:2	Total Amount:0.0	Transaction number:605181
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:VIP	Total Tickets:3	Total Amount:119.75692500000001	Transaction number:401147
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:Bronze	Total Tickets:2	Total Amount:40.872	Transaction number:708544
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:18	Seat:VIP	Total Tickets:2	Total Amount:61.89750000000001	Transaction number:932418
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:24	Seat:Bronze	Total Tickets:4	Total Amount:76.635	Transaction number:834809
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:41	Seat:VIP	Total Tickets:2	Total Amount:70.15050000000001	Transaction number:509212
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:48	Seat:Gold	Total Tickets:5	Total Amount:132.048	Transaction number:424056
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:VIP	Total Tickets:6	Total Amount:4377.3912	Transaction number:69945
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:68	Seat:General Admission	Total Tickets:4	Total Amount:0.0	Transaction number:165978
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:13	Seat:VIP	Total Tickets:3	Total Amount:111.41549999999998	Transaction number:181153
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Silver	Total Tickets:2	Total Amount:50.1075	Transaction number:733587
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:Silver	Total Tickets:4	Total Amount:88.425	Transaction number:842676
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:General Admission	Total Tickets:5	Total Amount:30.703125	Transaction number:436294
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:32	Seat:Silver	Total Tickets:5	Total Amount:110.53125	Transaction number:508153
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:44	Seat:Gold	Total Tickets:5	Total Amount:132.6375	Transaction number:503251
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:Gold	Total Tickets:4	Total Amount:0.0	Transaction number:358057
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:VIP	Total Tickets:2	Total Amount:61.89750000000001	Transaction number:754980
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:General Admission	Total Tickets:6	Total Amount:36.84375	Transaction number:445204
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:42	Seat:VIP	Total Tickets:3	Total Amount:92.84625	Transaction number:252667
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:32	Seat:General Admission	Total Tickets:4	Total Amount:58.95	Transaction number:916862
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:36	Seat:VIP	Total Tickets:3	Total Amount:92.84625	Transaction number:412343
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:43	Seat:General Admission	Total Tickets:3	Total Amount:50.1075	Transaction number:237080
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:12	Seat:General Admission	Total Tickets:6	Total Amount:94.32	Transaction number:583296
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:VIP	Total Tickets:2	Total Amount:61.89750000000001	Transaction number:212149
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:Gold	Total Tickets:4	Total Amount:105.6384	Transaction number:280049
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:54	Seat:General Admission	Total Tickets:5	Total Amount:30.703125	Transaction number:826069
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Gold	Total Tickets:5	Total Amount:128.21625	Transaction number:954033
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:34	Seat:Bronze	Total Tickets:6	Total Amount:114.9525	Transaction number:977382
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:Silver	Total Tickets:2	Total Amount:44.2125	Transaction number:239577
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:28	Seat:Gold	Total Tickets:6	Total Amount:159.16500000000002	Transaction number:369886
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:46	Seat:General Admission	Total Tickets:3	Total Amount:18.421875	Transaction number:119281
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:Silver	Total Tickets:6	Total Amount:132.6375	Transaction number:134524
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:Silver	Total Tickets:3	Total Amount:70.003125	Transaction number:52212
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:57	Seat:VIP	Total Tickets:4	Total Amount:2510.5626	Transaction number:475772
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:Bronze	Total Tickets:5	Total Amount:76.782375	Transaction number:186316
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:Gold	Total Tickets:5	Total Amount:1056.1875	Transaction number:361094
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:Silver	Total Tickets:4	Total Amount:93.3375	Transaction number:741183
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:47	Seat:VIP	Total Tickets:4	Total Amount:159.6759	Transaction number:265550
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:67	Seat:VIP	Total Tickets:2	Total Amount:638.625	Transaction number:171616
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Bronze	Total Tickets:4	Total Amount:74.0805	Transaction number:394561
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:43	Seat:VIP	Total Tickets:4	Total Amount:140.30100000000002	Transaction number:994982
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:69	Seat:Gold	Total Tickets:3	Total Amount:0.0	Transaction number:926448
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:44	Seat:Silver	Total Tickets:5	Total Amount:110.53125	Transaction number:139923
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:General Admission	Total Tickets:4	Total Amount:58.95	Transaction number:323140
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:3	Seat:VIP	Total Tickets:3	Total Amount:89.75137499999998	Transaction number:320683
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:50	Seat:Gold	Total Tickets:6	Total Amount:158.4576	Transaction number:973805
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:General Admission	Total Tickets:2	Total Amount:29.475	Transaction number:495164
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:31	Seat:Silver	Total Tickets:3	Total Amount:75.16125	Transaction number:573949
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:44	Seat:Silver	Total Tickets:6	Total Amount:132.6375	Transaction number:676998
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:Gold	Total Tickets:6	Total Amount:169.776	Transaction number:54291
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:6	Seat:Gold	Total Tickets:5	Total Amount:132.6375	Transaction number:758950
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:Silver	Total Tickets:2	Total Amount:44.2125	Transaction number:302668
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:VIP	Total Tickets:4	Total Amount:159.6759	Transaction number:99092
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:59	Seat:Gold	Total Tickets:2	Total Amount:931.3903500000001	Transaction number:752086
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:63	Seat:Silver	Total Tickets:3	Total Amount:1151.735625	Transaction number:220234
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:General Admission	Total Tickets:4	Total Amount:24.5625	Transaction number:413242
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:57	Seat:VIP	Total Tickets:3	Total Amount:1882.9219500000002	Transaction number:390609
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:11	Seat:Silver	Total Tickets:4	Total Amount:94.32	Transaction number:525486
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:5	Seat:Bronze	Total Tickets:4	Total Amount:76.635	Transaction number:168794
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:47	Seat:Bronze	Total Tickets:2	Total Amount:30.712950000000003	Transaction number:491834
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:VIP	Total Tickets:4	Total Amount:1277.25	Transaction number:303107
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:General Admission	Total Tickets:5	Total Amount:73.6875	Transaction number:597686
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:Bronze	Total Tickets:2	Total Amount:245.625	Transaction number:35588
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:60	Seat:Bronze	Total Tickets:5	Total Amount:1241.8799999999999	Transaction number:526160
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:67	Seat:VIP	Total Tickets:3	Total Amount:957.9375	Transaction number:749086
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:60	Seat:Gold	Total Tickets:2	Total Amount:854.4213	Transaction number:353058
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:21	Seat:Silver	Total Tickets:3	Total Amount:75.16125	Transaction number:654594
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:24	Seat:Bronze	Total Tickets:5	Total Amount:95.79375	Transaction number:399489
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Silver	Total Tickets:3	Total Amount:64.108125	Transaction number:501994
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:13	Seat:VIP	Total Tickets:3	Total Amount:111.41549999999998	Transaction number:549004
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:36	Seat:Gold	Total Tickets:6	Total Amount:159.16500000000002	Transaction number:33622
+	-------------------------------------------------------------------------------,
+Customer:customerID:58, firstName:'Victor', lastName:'HerreraVidales', balance:2200921.181274999
+[	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:58	Seat:Silver	Total Tickets:2	Total Amount:796.0608	Transaction number:798018
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:15	Seat:Bronze	Total Tickets:3	Total Amount:65.13975000000002	Transaction number:525100
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:36	Seat:General Admission	Total Tickets:2	Total Amount:29.475	Transaction number:443510
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:Bronze	Total Tickets:4	Total Amount:74.0805	Transaction number:475686
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:64	Seat:Bronze	Total Tickets:4	Total Amount:1122.6045	Transaction number:350971
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:46	Seat:General Admission	Total Tickets:4	Total Amount:24.5625	Transaction number:540825
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:39	Seat:Gold	Total Tickets:6	Total Amount:180.387	Transaction number:759820
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:43	Seat:Bronze	Total Tickets:6	Total Amount:130.27950000000004	Transaction number:627866
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:26	Seat:Gold	Total Tickets:5	Total Amount:132.6375	Transaction number:534725
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:Gold	Total Tickets:2	Total Amount:56.592000000000006	Transaction number:703127
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:34	Seat:Silver	Total Tickets:3	Total Amount:66.31875	Transaction number:262191
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:5	Seat:Gold	Total Tickets:3	Total Amount:79.58250000000001	Transaction number:51196
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:7	Seat:VIP	Total Tickets:2	Total Amount:61.89750000000001	Transaction number:115392
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:67	Seat:Gold	Total Tickets:5	Total Amount:1056.1875	Transaction number:267721
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:48	Seat:General Admission	Total Tickets:4	Total Amount:24.5625	Transaction number:600470
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:Silver	Total Tickets:5	Total Amount:106.846875	Transaction number:202973
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:57	Seat:General Admission	Total Tickets:3	Total Amount:289.68030000000005	Transaction number:678719
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:3	Seat:Bronze	Total Tickets:4	Total Amount:74.0805	Transaction number:968445
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:30	Seat:VIP	Total Tickets:4	Total Amount:123.79500000000002	Transaction number:996272
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:41	Seat:General Admission	Total Tickets:5	Total Amount:83.5125	Transaction number:301959
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:67	Seat:Gold	Total Tickets:6	Total Amount:1267.425	Transaction number:101835
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:VIP	Total Tickets:6	Total Amount:185.6925	Transaction number:402755
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:38	Seat:Gold	Total Tickets:6	Total Amount:159.16500000000002	Transaction number:289852
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:29	Seat:Gold	Total Tickets:2	Total Amount:60.129000000000005	Transaction number:407345
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:68	Seat:Silver	Total Tickets:6	Total Amount:0.0	Transaction number:658273
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:60	Seat:Silver	Total Tickets:2	Total Amount:755.0709	Transaction number:105359
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:34	Seat:Gold	Total Tickets:5	Total Amount:132.6375	Transaction number:844252
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:Gold	Total Tickets:2	Total Amount:53.055	Transaction number:183892
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:54	Seat:General Admission	Total Tickets:4	Total Amount:24.5625	Transaction number:815873
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:15	Seat:Silver	Total Tickets:2	Total Amount:50.1075	Transaction number:146176
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:42	Seat:Bronze	Total Tickets:6	Total Amount:114.9525	Transaction number:812162
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:49	Seat:Bronze	Total Tickets:6	Total Amount:92.13885	Transaction number:248558
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:43	Seat:Silver	Total Tickets:6	Total Amount:150.3225	Transaction number:686575
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:62	Seat:VIP	Total Tickets:5	Total Amount:3433.591875	Transaction number:27336
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:General Admission	Total Tickets:3	Total Amount:0.0	Transaction number:310898
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:VIP	Total Tickets:6	Total Amount:239.51385000000002	Transaction number:698004
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:25	Seat:VIP	Total Tickets:6	Total Amount:210.4515	Transaction number:517797
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:13	Seat:Bronze	Total Tickets:4	Total Amount:91.96199999999999	Transaction number:373611
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:59	Seat:VIP	Total Tickets:5	Total Amount:3519.80625	Transaction number:122261
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:37	Seat:General Admission	Total Tickets:2	Total Amount:33.405	Transaction number:401728
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:50	Seat:VIP	Total Tickets:6	Total Amount:239.51385000000002	Transaction number:576966
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:VIP	Total Tickets:3	Total Amount:99.03600000000002	Transaction number:411688
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:Silver	Total Tickets:4	Total Amount:1706.0523	Transaction number:636519
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:25	Seat:General Admission	Total Tickets:4	Total Amount:66.81	Transaction number:912172
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:38	Seat:General Admission	Total Tickets:4	Total Amount:58.95	Transaction number:273982
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:Gold	Total Tickets:6	Total Amount:1267.425	Transaction number:515892
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:69	Seat:General Admission	Total Tickets:2	Total Amount:0.0	Transaction number:893587
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:48	Seat:VIP	Total Tickets:2	Total Amount:79.83795	Transaction number:391002
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:60	Seat:General Admission	Total Tickets:2	Total Amount:198.70080000000002	Transaction number:390775
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:Bronze	Total Tickets:3	Total Amount:46.069425	Transaction number:161459
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:14	Seat:Gold	Total Tickets:3	Total Amount:79.58250000000001	Transaction number:739490
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:3	Seat:Bronze	Total Tickets:5	Total Amount:92.60062500000001	Transaction number:779867
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:47	Seat:Silver	Total Tickets:6	Total Amount:140.00625	Transaction number:842784
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:Bronze	Total Tickets:5	Total Amount:108.56625000000001	Transaction number:471175
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:53	Seat:General Admission	Total Tickets:2	Total Amount:12.28125	Transaction number:312510
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:9	Seat:Gold	Total Tickets:5	Total Amount:141.48	Transaction number:554294
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:12	Seat:Silver	Total Tickets:3	Total Amount:70.74	Transaction number:484131
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:44	Seat:VIP	Total Tickets:6	Total Amount:185.6925	Transaction number:167188
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:Silver	Total Tickets:4	Total Amount:85.47749999999999	Transaction number:300922
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:28	Seat:Bronze	Total Tickets:3	Total Amount:57.47625	Transaction number:790959
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:Silver	Total Tickets:5	Total Amount:106.846875	Transaction number:86371
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:69	Seat:General Admission	Total Tickets:4	Total Amount:0.0	Transaction number:147004
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:15	Seat:Bronze	Total Tickets:4	Total Amount:86.85300000000001	Transaction number:673050
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:Bronze	Total Tickets:2	Total Amount:30.712950000000003	Transaction number:951458
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:29	Seat:Bronze	Total Tickets:6	Total Amount:130.27950000000004	Transaction number:770172
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:43	Seat:Bronze	Total Tickets:2	Total Amount:43.426500000000004	Transaction number:91186
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:24	Seat:Gold	Total Tickets:4	Total Amount:106.11	Transaction number:870391
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:42	Seat:Bronze	Total Tickets:2	Total Amount:38.3175	Transaction number:739779
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:15	Seat:Bronze	Total Tickets:4	Total Amount:86.85300000000001	Transaction number:849907
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:68	Seat:Bronze	Total Tickets:6	Total Amount:0.0	Transaction number:479968
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:11	Seat:VIP	Total Tickets:4	Total Amount:132.048	Transaction number:775843
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:Bronze	Total Tickets:4	Total Amount:61.425900000000006	Transaction number:626028
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:18	Seat:Bronze	Total Tickets:4	Total Amount:76.635	Transaction number:263053
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:19	Seat:VIP	Total Tickets:6	Total Amount:210.4515	Transaction number:146996
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:37	Seat:Gold	Total Tickets:5	Total Amount:150.3225	Transaction number:121631
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:68	Seat:General Admission	Total Tickets:2	Total Amount:0.0	Transaction number:145585
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:69	Seat:Silver	Total Tickets:3	Total Amount:0.0	Transaction number:499488
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Silver	Total Tickets:5	Total Amount:125.26875000000001	Transaction number:30625
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:Silver	Total Tickets:5	Total Amount:0.0	Transaction number:385285
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:VIP	Total Tickets:3	Total Amount:119.75692500000001	Transaction number:880692
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:69	Seat:Silver	Total Tickets:2	Total Amount:0.0	Transaction number:220155
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:63	Seat:Silver	Total Tickets:6	Total Amount:2303.47125	Transaction number:96683
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:12	Seat:Gold	Total Tickets:3	Total Amount:84.888	Transaction number:637097
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:52	Seat:VIP	Total Tickets:3	Total Amount:119.75692500000001	Transaction number:110587
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:Gold	Total Tickets:4	Total Amount:113.18400000000001	Transaction number:560235
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:General Admission	Total Tickets:5	Total Amount:78.6	Transaction number:501328
+	-------------------------------------------------------------------------------,
+Customer:customerID:1, firstName:'Mickey', lastName:'Mouse', balance:1499930.5064250007
+[	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:Silver	Total Tickets:3	Total Amount:0.0	Transaction number:248741
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:62	Seat:VIP	Total Tickets:6	Total Amount:4539.680250000001	Transaction number:476659
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:25	Seat:General Admission	Total Tickets:5	Total Amount:92.0125	Transaction number:448914
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:Bronze	Total Tickets:5	Total Amount:112.58	Transaction number:938619
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:VIP	Total Tickets:6	Total Amount:263.89185000000003	Transaction number:850301
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:VIP	Total Tickets:5	Total Amount:181.86	Transaction number:650687
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:64	Seat:Gold	Total Tickets:2	Total Amount:1063.7078	Transaction number:145947
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:7	Seat:VIP	Total Tickets:2	Total Amount:68.1975	Transaction number:774629
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:46	Seat:VIP	Total Tickets:5	Total Amount:219.909875	Transaction number:431736
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:47	Seat:Silver	Total Tickets:5	Total Amount:128.546875	Transaction number:917070
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:44	Seat:Gold	Total Tickets:3	Total Amount:87.6825	Transaction number:594664
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:17	Seat:General Admission	Total Tickets:6	Total Amount:110.415	Transaction number:8415
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:69	Seat:General Admission	Total Tickets:6	Total Amount:0.0	Transaction number:24836
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:17	Seat:Bronze	Total Tickets:5	Total Amount:119.61625000000001	Transaction number:784099
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:45	Seat:Silver	Total Tickets:2	Total Amount:51.41875	Transaction number:121736
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:15	Seat:Bronze	Total Tickets:5	Total Amount:119.61625000000001	Transaction number:319899
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:VIP	Total Tickets:3	Total Amount:109.11600000000001	Transaction number:973035
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:Gold	Total Tickets:2	Total Amount:1063.51295	Transaction number:224605
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:Bronze	Total Tickets:3	Total Amount:63.32625	Transaction number:475899
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:17	Seat:Silver	Total Tickets:2	Total Amount:55.2075	Transaction number:465650
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:19	Seat:Gold	Total Tickets:3	Total Amount:99.3735	Transaction number:398977
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:46	Seat:General Admission	Total Tickets:6	Total Amount:40.59375	Transaction number:912993
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:30	Seat:Gold	Total Tickets:2	Total Amount:58.455	Transaction number:191032
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Silver	Total Tickets:5	Total Amount:138.01875	Transaction number:65839
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Silver	Total Tickets:6	Total Amount:141.26625	Transaction number:113503
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:19	Seat:Silver	Total Tickets:6	Total Amount:165.6225	Transaction number:873458
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:37	Seat:Gold	Total Tickets:4	Total Amount:132.49800000000002	Transaction number:783377
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:21	Seat:VIP	Total Tickets:5	Total Amount:193.22625	Transaction number:389066
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:Bronze	Total Tickets:6	Total Amount:122.43075000000002	Transaction number:874794
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:49	Seat:Bronze	Total Tickets:5	Total Amount:84.597375	Transaction number:283329
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:VIP	Total Tickets:2	Total Amount:77.29050000000001	Transaction number:348371
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:21	Seat:Gold	Total Tickets:2	Total Amount:66.24900000000001	Transaction number:86519
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:7	Seat:Silver	Total Tickets:2	Total Amount:48.7125	Transaction number:602677
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:25	Seat:General Admission	Total Tickets:3	Total Amount:55.2075	Transaction number:785816
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:5	Seat:Gold	Total Tickets:2	Total Amount:58.455	Transaction number:709449
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:Silver	Total Tickets:6	Total Amount:2819.54445	Transaction number:952878
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:64	Seat:Silver	Total Tickets:5	Total Amount:2350.053375	Transaction number:880646
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:45	Seat:Gold	Total Tickets:4	Total Amount:116.3904	Transaction number:558030
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Silver	Total Tickets:6	Total Amount:165.6225	Transaction number:389376
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:VIP	Total Tickets:2	Total Amount:68.1975	Transaction number:698621
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:44	Seat:Gold	Total Tickets:4	Total Amount:116.91	Transaction number:836932
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:General Admission	Total Tickets:4	Total Amount:27.0625	Transaction number:553019
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:50	Seat:Gold	Total Tickets:2	Total Amount:58.1952	Transaction number:324040
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:Gold	Total Tickets:5	Total Amount:146.1375	Transaction number:406854
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:59	Seat:VIP	Total Tickets:6	Total Amount:4653.6675	Transaction number:286002
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:VIP	Total Tickets:5	Total Amount:193.22625	Transaction number:788653
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:General Admission	Total Tickets:2	Total Amount:32.475	Transaction number:419337
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:23	Seat:Silver	Total Tickets:2	Total Amount:55.2075	Transaction number:817522
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:26	Seat:General Admission	Total Tickets:6	Total Amount:97.425	Transaction number:833161
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:6	Seat:VIP	Total Tickets:3	Total Amount:102.29625	Transaction number:291534
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:31	Seat:Bronze	Total Tickets:6	Total Amount:143.53950000000003	Transaction number:763675
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:Bronze	Total Tickets:5	Total Amount:84.597375	Transaction number:832823
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:9	Seat:Silver	Total Tickets:5	Total Amount:129.9	Transaction number:497456
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:General Admission	Total Tickets:2	Total Amount:32.475	Transaction number:320723
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:32	Seat:Gold	Total Tickets:6	Total Amount:175.365	Transaction number:551785
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:63	Seat:VIP	Total Tickets:4	Total Amount:2894.172	Transaction number:669890
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:Silver	Total Tickets:2	Total Amount:48.7125	Transaction number:291874
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:Gold	Total Tickets:2	Total Amount:465.475	Transaction number:793925
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:39	Seat:Bronze	Total Tickets:3	Total Amount:71.76975000000002	Transaction number:549961
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:11	Seat:Gold	Total Tickets:4	Total Amount:124.70400000000001	Transaction number:900266
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:Silver	Total Tickets:4	Total Amount:103.92	Transaction number:114879
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:58	Seat:Gold	Total Tickets:5	Total Amount:2481.19825	Transaction number:417866
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:9	Seat:Gold	Total Tickets:6	Total Amount:187.056	Transaction number:238482
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:19	Seat:General Admission	Total Tickets:6	Total Amount:110.415	Transaction number:210439
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:Gold	Total Tickets:6	Total Amount:174.5856	Transaction number:253610
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:17	Seat:Bronze	Total Tickets:2	Total Amount:47.846500000000006	Transaction number:884952
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:36	Seat:VIP	Total Tickets:3	Total Amount:102.29625	Transaction number:603930
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:21	Seat:VIP	Total Tickets:3	Total Amount:115.93575000000001	Transaction number:93657
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:54	Seat:Silver	Total Tickets:2	Total Amount:51.41875	Transaction number:776584
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:59	Seat:VIP	Total Tickets:5	Total Amount:3878.05625	Transaction number:639916
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:62	Seat:Bronze	Total Tickets:2	Total Amount:582.01695	Transaction number:922223
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:32	Seat:Silver	Total Tickets:3	Total Amount:73.06875	Transaction number:840509
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:14	Seat:Silver	Total Tickets:4	Total Amount:97.425	Transaction number:102591
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:29	Seat:Bronze	Total Tickets:2	Total Amount:47.846500000000006	Transaction number:142971
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:53	Seat:Silver	Total Tickets:2	Total Amount:51.41875	Transaction number:772655
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:Gold	Total Tickets:4	Total Amount:930.95	Transaction number:134187
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:VIP	Total Tickets:2	Total Amount:77.29050000000001	Transaction number:72431
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:Gold	Total Tickets:3	Total Amount:84.75975000000001	Transaction number:260147
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:18	Seat:Gold	Total Tickets:6	Total Amount:175.365	Transaction number:953858
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:43	Seat:Bronze	Total Tickets:3	Total Amount:71.76975000000002	Transaction number:276111
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:Silver	Total Tickets:3	Total Amount:73.06875	Transaction number:921505
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:29	Seat:Gold	Total Tickets:3	Total Amount:99.3735	Transaction number:396783
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:52	Seat:Bronze	Total Tickets:3	Total Amount:50.758425	Transaction number:934532
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:19	Seat:General Admission	Total Tickets:3	Total Amount:55.2075	Transaction number:568550
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:General Admission	Total Tickets:6	Total Amount:97.425	Transaction number:653764
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:Bronze	Total Tickets:3	Total Amount:67.548	Transaction number:256783
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:36	Seat:General Admission	Total Tickets:2	Total Amount:32.475	Transaction number:964948
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:18	Seat:General Admission	Total Tickets:4	Total Amount:64.95	Transaction number:663111
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:General Admission	Total Tickets:2	Total Amount:32.475	Transaction number:451325
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:26	Seat:General Admission	Total Tickets:5	Total Amount:81.1875	Transaction number:658093
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:Silver	Total Tickets:3	Total Amount:1409.772225	Transaction number:999652
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:41	Seat:Gold	Total Tickets:6	Total Amount:198.747	Transaction number:747439
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:63	Seat:VIP	Total Tickets:5	Total Amount:3617.715	Transaction number:919101
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:58	Seat:General Admission	Total Tickets:3	Total Amount:346.21597499999996	Transaction number:663938
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:12	Seat:General Admission	Total Tickets:6	Total Amount:103.92	Transaction number:137444
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Bronze	Total Tickets:4	Total Amount:95.69300000000001	Transaction number:287202
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:17	Seat:General Admission	Total Tickets:6	Total Amount:110.415	Transaction number:160087
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:53	Seat:General Admission	Total Tickets:5	Total Amount:33.828125	Transaction number:399731
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:41	Seat:Bronze	Total Tickets:4	Total Amount:95.69300000000001	Transaction number:371649
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:67	Seat:Bronze	Total Tickets:4	Total Amount:541.25	Transaction number:666405
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Bronze	Total Tickets:4	Total Amount:81.6205	Transaction number:904467
+	-------------------------------------------------------------------------------, 
+Customer:customerID:33, firstName:'Hercules', lastName:'Disney', balance:1281337.4982750001
+[	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:VIP	Total Tickets:2	Total Amount:65.92425	Transaction number:317160
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:30	Seat:Bronze	Total Tickets:6	Total Amount:126.6525	Transaction number:61816
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:VIP	Total Tickets:5	Total Amount:170.49375	Transaction number:476315
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:28	Seat:Gold	Total Tickets:5	Total Amount:146.1375	Transaction number:174515
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:31	Seat:Gold	Total Tickets:3	Total Amount:99.3735	Transaction number:339798
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:62	Seat:Bronze	Total Tickets:5	Total Amount:1455.0423749999998	Transaction number:687453
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:General Admission	Total Tickets:5	Total Amount:33.828125	Transaction number:391736
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:14	Seat:VIP	Total Tickets:3	Total Amount:102.29625	Transaction number:257288
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:Bronze	Total Tickets:2	Total Amount:270.625	Transaction number:278714
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:11	Seat:Bronze	Total Tickets:3	Total Amount:67.548	Transaction number:125019
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:42	Seat:Silver	Total Tickets:6	Total Amount:146.1375	Transaction number:543130
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:VIP	Total Tickets:4	Total Amount:175.92790000000002	Transaction number:78405
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:6	Seat:Bronze	Total Tickets:3	Total Amount:63.32625	Transaction number:141877
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:VIP	Total Tickets:2	Total Amount:87.96395000000001	Transaction number:901333
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:42	Seat:Bronze	Total Tickets:2	Total Amount:42.2175	Transaction number:44017
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:49	Seat:Bronze	Total Tickets:5	Total Amount:84.597375	Transaction number:422745
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:49	Seat:Silver	Total Tickets:3	Total Amount:77.128125	Transaction number:477774
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:VIP	Total Tickets:3	Total Amount:2411.4636	Transaction number:619724
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:13	Seat:General Admission	Total Tickets:5	Total Amount:97.425	Transaction number:865351
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:30	Seat:Bronze	Total Tickets:3	Total Amount:63.32625	Transaction number:831681
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:52	Seat:Silver	Total Tickets:4	Total Amount:102.8375	Transaction number:691496
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:9	Seat:Gold	Total Tickets:2	Total Amount:62.352000000000004	Transaction number:29650
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:14	Seat:General Admission	Total Tickets:3	Total Amount:48.7125	Transaction number:562026
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:47	Seat:Silver	Total Tickets:6	Total Amount:154.25625	Transaction number:421506
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:Gold	Total Tickets:2	Total Amount:1063.51295	Transaction number:350674
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:VIP	Total Tickets:5	Total Amount:164.810625	Transaction number:16192
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:VIP	Total Tickets:6	Total Amount:0.0	Transaction number:451386
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:54	Seat:Gold	Total Tickets:6	Total Amount:174.5856	Transaction number:314018
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:61	Seat:Bronze	Total Tickets:2	Total Amount:618.3240000000001	Transaction number:858959
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:VIP	Total Tickets:4	Total Amount:136.395	Transaction number:122720
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:39	Seat:Silver	Total Tickets:5	Total Amount:138.01875	Transaction number:719618
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:34	Seat:General Admission	Total Tickets:6	Total Amount:97.425	Transaction number:847722
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:7	Seat:Silver	Total Tickets:6	Total Amount:146.1375	Transaction number:516380
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Bronze	Total Tickets:3	Total Amount:71.76975000000002	Transaction number:88226
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:Silver	Total Tickets:2	Total Amount:48.7125	Transaction number:589097
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:General Admission	Total Tickets:2	Total Amount:32.475	Transaction number:246952
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:Silver	Total Tickets:2	Total Amount:51.41875	Transaction number:908740
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:68	Seat:General Admission	Total Tickets:3	Total Amount:0.0	Transaction number:280196
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:3	Seat:VIP	Total Tickets:4	Total Amount:131.8485	Transaction number:118257
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:VIP	Total Tickets:2	Total Amount:0.0	Transaction number:966215
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:Bronze	Total Tickets:5	Total Amount:676.5625	Transaction number:772330
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:53	Seat:VIP	Total Tickets:3	Total Amount:131.94592500000002	Transaction number:834588
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:Silver	Total Tickets:4	Total Amount:110.415	Transaction number:425278
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:Silver	Total Tickets:4	Total Amount:103.92	Transaction number:498363
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:Silver	Total Tickets:4	Total Amount:822.7	Transaction number:965568
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:VIP	Total Tickets:5	Total Amount:0.0	Transaction number:776376
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:VIP	Total Tickets:6	Total Amount:263.89185000000003	Transaction number:127850
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:11	Seat:General Admission	Total Tickets:5	Total Amount:86.6	Transaction number:37747
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:59	Seat:Silver	Total Tickets:2	Total Amount:906.85355	Transaction number:945808
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:18	Seat:Silver	Total Tickets:4	Total Amount:97.425	Transaction number:387295
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:Bronze	Total Tickets:5	Total Amount:0.0	Transaction number:573513
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:VIP	Total Tickets:6	Total Amount:204.5925	Transaction number:23263
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:6	Seat:Silver	Total Tickets:2	Total Amount:48.7125	Transaction number:197373
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:21	Seat:VIP	Total Tickets:2	Total Amount:77.29050000000001	Transaction number:611836
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:23	Seat:Gold	Total Tickets:5	Total Amount:165.6225	Transaction number:998542
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:43	Seat:VIP	Total Tickets:3	Total Amount:115.93575000000001	Transaction number:251293
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:General Admission	Total Tickets:2	Total Amount:32.475	Transaction number:386003
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:7	Seat:General Admission	Total Tickets:2	Total Amount:32.475	Transaction number:348195
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:VIP	Total Tickets:4	Total Amount:136.395	Transaction number:98069
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:VIP	Total Tickets:4	Total Amount:0.0	Transaction number:944771
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:6	Seat:General Admission	Total Tickets:2	Total Amount:32.475	Transaction number:625246
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:General Admission	Total Tickets:4	Total Amount:64.95	Transaction number:57807
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:15	Seat:General Admission	Total Tickets:2	Total Amount:36.805	Transaction number:616126
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:19	Seat:Silver	Total Tickets:5	Total Amount:138.01875	Transaction number:892203
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:48	Seat:General Admission	Total Tickets:2	Total Amount:13.53125	Transaction number:131910
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:53	Seat:Gold	Total Tickets:2	Total Amount:58.1952	Transaction number:245243
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:2	Seat:General Admission	Total Tickets:3	Total Amount:47.08875	Transaction number:471489
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:Bronze	Total Tickets:6	Total Amount:126.6525	Transaction number:529199
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:31	Seat:General Admission	Total Tickets:4	Total Amount:73.61	Transaction number:720574
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:27	Seat:Gold	Total Tickets:3	Total Amount:99.3735	Transaction number:9690
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:50	Seat:Gold	Total Tickets:6	Total Amount:174.5856	Transaction number:623726
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:32	Seat:Silver	Total Tickets:6	Total Amount:146.1375	Transaction number:625180
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:60	Seat:General Admission	Total Tickets:6	Total Amount:656.7744	Transaction number:41229
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:50	Seat:VIP	Total Tickets:6	Total Amount:263.89185000000003	Transaction number:49859
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:General Admission	Total Tickets:3	Total Amount:162.375	Transaction number:353526
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:Gold	Total Tickets:5	Total Amount:145.488	Transaction number:59143
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:21	Seat:Gold	Total Tickets:2	Total Amount:66.24900000000001	Transaction number:199492
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:31	Seat:Bronze	Total Tickets:6	Total Amount:143.53950000000003	Transaction number:216121
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:58	Seat:General Admission	Total Tickets:2	Total Amount:230.81065	Transaction number:882406
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:43	Seat:Bronze	Total Tickets:6	Total Amount:143.53950000000003	Transaction number:20968
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:28	Seat:General Admission	Total Tickets:6	Total Amount:97.425	Transaction number:415420
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:46	Seat:Gold	Total Tickets:5	Total Amount:145.488	Transaction number:946801
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:General Admission	Total Tickets:3	Total Amount:20.296875	Transaction number:289094
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:64	Seat:General Admission	Total Tickets:6	Total Amount:742.1187000000001	Transaction number:858496
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:58	Seat:Silver	Total Tickets:6	Total Amount:2631.2544000000003	Transaction number:674826
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:38	Seat:Bronze	Total Tickets:2	Total Amount:42.2175	Transaction number:699996
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:12	Seat:Bronze	Total Tickets:4	Total Amount:90.06400000000001	Transaction number:493368
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:VIP	Total Tickets:5	Total Amount:193.22625	Transaction number:705663
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:26	Seat:Silver	Total Tickets:2	Total Amount:48.7125	Transaction number:906068
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:59	Seat:Gold	Total Tickets:4	Total Amount:2052.3767000000003	Transaction number:797940
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:39	Seat:Silver	Total Tickets:4	Total Amount:110.415	Transaction number:672872
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:29	Seat:General Admission	Total Tickets:3	Total Amount:55.2075	Transaction number:973279
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:3	Seat:Silver	Total Tickets:3	Total Amount:70.633125	Transaction number:75672
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:Silver	Total Tickets:4	Total Amount:97.425	Transaction number:937849
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:13	Seat:Gold	Total Tickets:2	Total Amount:70.146	Transaction number:854382
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Gold	Total Tickets:5	Total Amount:165.6225	Transaction number:761541
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:VIP	Total Tickets:4	Total Amount:136.395	Transaction number:737715
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:58	Seat:Gold	Total Tickets:5	Total Amount:2481.19825	Transaction number:991351
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:26	Seat:Gold	Total Tickets:3	Total Amount:87.6825	Transaction number:578235
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:Bronze	Total Tickets:2	Total Amount:270.625	Transaction number:262204
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:Gold	Total Tickets:6	Total Amount:174.5856	Transaction number:994771
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:Gold	Total Tickets:2	Total Amount:58.455	Transaction number:614009
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:7	Seat:VIP	Total Tickets:4	Total Amount:136.395	Transaction number:473124
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:13	Seat:Gold	Total Tickets:5	Total Amount:175.365	Transaction number:258330
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:Bronze	Total Tickets:3	Total Amount:50.758425	Transaction number:532318
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:46	Seat:Silver	Total Tickets:6	Total Amount:154.25625	Transaction number:617126
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:39	Seat:VIP	Total Tickets:5	Total Amount:193.22625	Transaction number:298152
+	-------------------------------------------------------------------------------,
+Customer:customerID:9, firstName:'Ariel', lastName:'Disney', balance:2599510.820525001
+[	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:Bronze	Total Tickets:3	Total Amount:57.47625	Transaction number:900869
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:36	Seat:VIP	Total Tickets:2	Total Amount:61.89750000000001	Transaction number:373837
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:18	Seat:VIP	Total Tickets:5	Total Amount:154.74375	Transaction number:15920
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:50	Seat:Bronze	Total Tickets:4	Total Amount:61.425900000000006	Transaction number:510059
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:Bronze	Total Tickets:3	Total Amount:61.308	Transaction number:43812
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:32	Seat:Gold	Total Tickets:6	Total Amount:159.16500000000002	Transaction number:270483
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:Bronze	Total Tickets:6	Total Amount:130.27950000000004	Transaction number:161316
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:47	Seat:VIP	Total Tickets:5	Total Amount:199.594875	Transaction number:695722
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:General Admission	Total Tickets:2	Total Amount:29.475	Transaction number:553501
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:Gold	Total Tickets:6	Total Amount:158.4576	Transaction number:186989
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:52	Seat:Silver	Total Tickets:2	Total Amount:46.66875	Transaction number:387051
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:39	Seat:Silver	Total Tickets:2	Total Amount:50.1075	Transaction number:273537
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:Silver	Total Tickets:3	Total Amount:75.16125	Transaction number:172673
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:14	Seat:VIP	Total Tickets:3	Total Amount:92.84625	Transaction number:174639
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:40	Seat:General Admission	Total Tickets:6	Total Amount:88.425	Transaction number:159401
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:16	Seat:Bronze	Total Tickets:4	Total Amount:76.635	Transaction number:711994
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:29	Seat:Bronze	Total Tickets:5	Total Amount:108.56625000000001	Transaction number:716136
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:General Admission	Total Tickets:4	Total Amount:24.5625	Transaction number:32449
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:17	Seat:General Admission	Total Tickets:2	Total Amount:33.405	Transaction number:803790
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:54	Seat:Bronze	Total Tickets:2	Total Amount:30.712950000000003	Transaction number:139753
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:34	Seat:Bronze	Total Tickets:4	Total Amount:76.635	Transaction number:602500
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Silver	Total Tickets:5	Total Amount:106.846875	Transaction number:549302
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:34	Seat:Silver	Total Tickets:5	Total Amount:110.53125	Transaction number:500706
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:33	Seat:Silver	Total Tickets:3	Total Amount:75.16125	Transaction number:628734
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:52	Seat:VIP	Total Tickets:4	Total Amount:159.6759	Transaction number:985166
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:16	Seat:Bronze	Total Tickets:6	Total Amount:114.9525	Transaction number:792666
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:9	Seat:Gold	Total Tickets:5	Total Amount:141.48	Transaction number:392726
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:4	Seat:VIP	Total Tickets:4	Total Amount:123.79500000000002	Transaction number:620233
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:25	Seat:Gold	Total Tickets:2	Total Amount:60.129000000000005	Transaction number:35845
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:Silver	Total Tickets:3	Total Amount:75.16125	Transaction number:863585
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:14	Seat:General Admission	Total Tickets:3	Total Amount:44.2125	Transaction number:325164
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:Silver	Total Tickets:2	Total Amount:373.35	Transaction number:933787
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:19	Seat:General Admission	Total Tickets:4	Total Amount:66.81	Transaction number:255134
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:37	Seat:Gold	Total Tickets:5	Total Amount:150.3225	Transaction number:773007
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:Gold	Total Tickets:4	Total Amount:844.95	Transaction number:954738
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:38	Seat:Bronze	Total Tickets:4	Total Amount:76.635	Transaction number:549490
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:45	Seat:VIP	Total Tickets:2	Total Amount:79.83795	Transaction number:37239
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:7	Seat:VIP	Total Tickets:2	Total Amount:61.89750000000001	Transaction number:611119
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:Silver	Total Tickets:6	Total Amount:0.0	Transaction number:703822
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:64	Seat:Silver	Total Tickets:5	Total Amount:2132.958375	Transaction number:886699
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:13	Seat:Silver	Total Tickets:5	Total Amount:132.6375	Transaction number:99706
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:Silver	Total Tickets:4	Total Amount:746.7	Transaction number:979188
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:58	Seat:Silver	Total Tickets:4	Total Amount:1592.1216	Transaction number:312282
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:27	Seat:Gold	Total Tickets:6	Total Amount:180.387	Transaction number:615525
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:37	Seat:General Admission	Total Tickets:3	Total Amount:50.1075	Transaction number:804085
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:General Admission	Total Tickets:2	Total Amount:31.44	Transaction number:732531
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:44	Seat:Silver	Total Tickets:5	Total Amount:110.53125	Transaction number:544518
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:Gold	Total Tickets:3	Total Amount:79.2288	Transaction number:132255
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:9	Seat:VIP	Total Tickets:3	Total Amount:99.03600000000002	Transaction number:839706
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:VIP	Total Tickets:5	Total Amount:165.06	Transaction number:443588
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:11	Seat:VIP	Total Tickets:4	Total Amount:132.048	Transaction number:946301
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:68	Seat:VIP	Total Tickets:6	Total Amount:0.0	Transaction number:705810
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:71	Seat:Gold	Total Tickets:2	Total Amount:0.0	Transaction number:220324
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:57	Seat:Bronze	Total Tickets:4	Total Amount:965.6009999999999	Transaction number:635639
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:46	Seat:Silver	Total Tickets:6	Total Amount:140.00625	Transaction number:414113
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:30	Seat:Silver	Total Tickets:5	Total Amount:110.53125	Transaction number:959575
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:47	Seat:VIP	Total Tickets:2	Total Amount:79.83795	Transaction number:52140
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:52	Seat:General Admission	Total Tickets:4	Total Amount:24.5625	Transaction number:760619
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:34	Seat:Bronze	Total Tickets:4	Total Amount:76.635	Transaction number:739137
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:23	Seat:Silver	Total Tickets:5	Total Amount:125.26875000000001	Transaction number:791421
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Bronze	Total Tickets:3	Total Amount:55.56037500000001	Transaction number:71783
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:14	Seat:Bronze	Total Tickets:3	Total Amount:57.47625	Transaction number:98522
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:38	Seat:General Admission	Total Tickets:2	Total Amount:29.475	Transaction number:218700
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:19	Seat:General Admission	Total Tickets:4	Total Amount:66.81	Transaction number:54448
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:58	Seat:General Admission	Total Tickets:3	Total Amount:314.23297499999995	Transaction number:524096
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:21	Seat:Gold	Total Tickets:4	Total Amount:120.25800000000001	Transaction number:241285
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:51	Seat:Gold	Total Tickets:2	Total Amount:52.8192	Transaction number:889884
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:34	Seat:Gold	Total Tickets:6	Total Amount:159.16500000000002	Transaction number:321979
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:42	Seat:General Admission	Total Tickets:5	Total Amount:73.6875	Transaction number:552114
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:Bronze	Total Tickets:4	Total Amount:491.25	Transaction number:590618
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:25	Seat:Silver	Total Tickets:5	Total Amount:125.26875000000001	Transaction number:933190
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:12	Seat:Bronze	Total Tickets:5	Total Amount:102.17999999999999	Transaction number:842538
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:31	Seat:Gold	Total Tickets:2	Total Amount:60.129000000000005	Transaction number:905441
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:56	Seat:Silver	Total Tickets:3	Total Amount:70.003125	Transaction number:347107
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:54	Seat:General Admission	Total Tickets:2	Total Amount:12.28125	Transaction number:318556
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:30	Seat:Gold	Total Tickets:3	Total Amount:79.58250000000001	Transaction number:354040
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:55	Seat:VIP	Total Tickets:6	Total Amount:239.51385000000002	Transaction number:438219
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:59	Seat:Silver	Total Tickets:2	Total Amount:823.07955	Transaction number:797014
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:49	Seat:VIP	Total Tickets:6	Total Amount:239.51385000000002	Transaction number:821677
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:62	Seat:Gold	Total Tickets:3	Total Amount:1362.8650499999999	Transaction number:771131
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:General Admission	Total Tickets:5	Total Amount:245.625	Transaction number:564217
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:37	Seat:Silver	Total Tickets:4	Total Amount:100.215	Transaction number:313560
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:6	Seat:General Admission	Total Tickets:6	Total Amount:88.425	Transaction number:125509
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:27	Seat:Gold	Total Tickets:4	Total Amount:120.25800000000001	Transaction number:885611
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:9	Seat:Gold	Total Tickets:4	Total Amount:113.18400000000001	Transaction number:564089
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:18	Seat:General Admission	Total Tickets:5	Total Amount:73.6875	Transaction number:381066
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:21	Seat:VIP	Total Tickets:2	Total Amount:70.15050000000001	Transaction number:840000
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Bronze	Total Tickets:2	Total Amount:37.04025	Transaction number:127078
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:68	Seat:Bronze	Total Tickets:2	Total Amount:0.0	Transaction number:398633
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:66	Seat:Silver	Total Tickets:4	Total Amount:746.7	Transaction number:123180
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:23	Seat:Gold	Total Tickets:5	Total Amount:150.3225	Transaction number:922487
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:Bronze	Total Tickets:4	Total Amount:74.0805	Transaction number:119432
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:50	Seat:Bronze	Total Tickets:6	Total Amount:92.13885	Transaction number:471939
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:22	Seat:VIP	Total Tickets:3	Total Amount:92.84625	Transaction number:270532
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:32	Seat:VIP	Total Tickets:2	Total Amount:61.89750000000001	Transaction number:161894
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:25	Seat:Bronze	Total Tickets:2	Total Amount:43.426500000000004	Transaction number:238582
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:General Admission	Total Tickets:4	Total Amount:62.88	Transaction number:609579
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:47	Seat:Silver	Total Tickets:5	Total Amount:116.671875	Transaction number:238497
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:20	Seat:Bronze	Total Tickets:4	Total Amount:76.635	Transaction number:101735
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:53	Seat:General Admission	Total Tickets:3	Total Amount:18.421875	Transaction number:627689
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:General Admission	Total Tickets:2	Total Amount:98.25	Transaction number:369563
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:31	Seat:Gold	Total Tickets:6	Total Amount:180.387	Transaction number:2349
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:54	Seat:VIP	Total Tickets:5	Total Amount:199.594875	Transaction number:20150
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:1	Seat:General Admission	Total Tickets:6	Total Amount:85.47749999999999	Transaction number:158499
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:8	Seat:Gold	Total Tickets:4	Total Amount:113.18400000000001	Transaction number:687544
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:65	Seat:VIP	Total Tickets:2	Total Amount:638.625	Transaction number:754954
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:53	Seat:Silver	Total Tickets:6	Total Amount:140.00625	Transaction number:359553
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:10	Seat:Gold	Total Tickets:2	Total Amount:56.592000000000006	Transaction number:640808
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:35	Seat:VIP	Total Tickets:6	Total Amount:210.4515	Transaction number:772805
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:49	Seat:Gold	Total Tickets:5	Total Amount:132.048	Transaction number:911227
+	-------------------------------------------------------------------------------, 	------------------------------------------------------------------------------
+	 PLEASE SHOW THIS TICKET TO ENJOY THE EVENT:
+	EVENT ID:18	Seat:Gold	Total Tickets:4	Total Amount:106.11	Transaction number:304180
+	-------------------------------------------------------------------------------,
