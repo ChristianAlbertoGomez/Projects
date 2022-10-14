@@ -1,0 +1,26 @@
+ /**
+     * Method provided by Victor Herrera
+     * Method will be used to verify that user input matches that of the options.
+     * @param ticketType userInput
+     *
+     * **/
+    public static boolean verifyTicketType(String ticketType){
+
+        if(ticketType.equals("Vip")||ticketType.equals("VIP")){
+            return true;
+        }
+        else if(ticketType.equals("Gold")||ticketType.equals("gold")){
+            return true;
+        }
+        else if(ticketType.equals("Silver")||ticketType.equals("silver")){
+            return true;
+        }
+        else if(ticketType.equals("Bronze")||ticketType.equals("bronze")){
+
+            return true;
+        }
+        else if(ticketType.equals("General")||ticketType.equals("general")){
+            return true;
+        }
+        return false;
+    }

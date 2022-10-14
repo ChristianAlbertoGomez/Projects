@@ -1,0 +1,11 @@
+    /**
+     * Method Provided by Victor Herrera
+     * @param input user input
+     * Method will only verify if user input exceeds integer value.
+     * Calls will be made to this function to verify input quickly
+     * **/
+    public static void checkIncorrectInput(int input){
+        if(input>3){
+            System.out.println("You have entered a menu option that does not exist"+"\n"+"Try again!!!!!!!!!");
+            startMenu();
+        }

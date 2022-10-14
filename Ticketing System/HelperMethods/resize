@@ -1,0 +1,13 @@
+  /**
+     * Method provided by Victor Herrera
+     * @return arr 
+     * returns an array to that matches that of input csv
+     * **/
+    public static String [] resize(String index[],HashMap hashMap){
+        String arr [] = new String[hashMap.size()];
+        for(int i =0;i<index.length;i++){
+            arr[i]=index[i];
+        }
+
+        return arr;
+    }

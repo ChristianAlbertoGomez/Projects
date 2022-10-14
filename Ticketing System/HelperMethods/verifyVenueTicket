@@ -1,0 +1,21 @@
+  /**
+     * Method provided by Victor Herrera
+     * @return boolean 
+     * returns boolean depending what the user Input is. 
+     * 
+     * **/
+    public static boolean verifyVenueInput(String venueInput){
+       
+        if(venueInput.equalsIgnoreCase("Sun Bowl Stadium")|| venueInput.equalsIgnoreCase("Don Haskins Center")){
+            return true;
+        }
+        if(venueInput.equalsIgnoreCase("Magoffin Auditorium")|| venueInput.equalsIgnoreCase("San Jacinto Plaza")){
+            return true;
+        }
+        if(venueInput.equalsIgnoreCase("Centennial Plaza")){
+            return true;
+        }
+
+        return false;
+
+    }

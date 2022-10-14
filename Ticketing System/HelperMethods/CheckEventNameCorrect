@@ -1,0 +1,17 @@
+ 
+    /**
+     * Method provided by Victor Herrera
+     * Method is designed to verify user input when entering event Names. 
+     * @return boolean returns if the event information provided user is correct. 
+     * 
+     * 
+     * **/
+    public static boolean checkEventNameCorrect (String name){
+        ArrayList<Event> events = generateEventList();
+        for(int i=0;i<events.size();i++){
+            if(events.get(i).getName().equals(name)){
+                return true;
+            }
+        }
+        return false;
+    }

@@ -1,0 +1,47 @@
+    /**
+     * Method Provided by Victor Herrera
+     * Method is designed to check the event ids. 
+     * User enters invalid Id exception is handled. 
+     * @return a 
+     * return valid Id type. 
+     * **/
+   
+    public static int eventId(int a) throws HandleIdException {
+
+        if (a >71) {
+            throw new HandleIdException("Id Entered does not exist Enter Valid Id");
+        } else {
+            return a;
+        }
+    }
+    /**
+     * Method Provided by Victor Herrera
+     * Method is designed to take user input and check to ensure
+     * Input values are correct
+     * @return id returns correct Id.
+     *
+     *
+     * **/
+    public static int checkInvalidInput() {
+        int count = 0;
+        int id =0;
+        while (count < 72) {
+            try {
+                Scanner scr = new Scanner(System.in);
+                System.out.println("Enter Id");
+                 id = scr.nextInt();
+                 int x = eventId(id);
+                 return id;
+               
+            } catch (HandleIdException e) {
+                System.out.println(e);
+
+            }
+            catch (InputMismatchException e){
+                System.out.println("Expecting a Integer Value");
+            }
+            count++;
+
+        }
+        return id;
+    }

@@ -1,0 +1,29 @@
+  /**
+     * Method provided by Victor Herrera
+     * @return numTickets
+     * returns the correct amount of tickets
+     * that a user can purchase.
+     * **/
+   public static int checkNumberOfTickets() {
+        StringRepo input = new StringRepo();
+        StringRepo input1= new StringRepo();
+        input1.messageInfo();
+        Singleton instance1 = Singleton.getInstance();
+        Scanner kb = new Scanner(System.in);
+        instance1.printSomething(input.messageInfo());
+        try {
+            int numTicket = 0;
+            numTicket = kb.nextInt();
+            if (numTicket < 2 || numTicket > 6) {
+                System.out.println("you can only purchase 2-6 Tickets try again");
+                return checkNumberOfTickets();
+            }else if(numTicket>=2||numTicket<=6){
+                return numTicket;
+            }
+        }catch (InputMismatchException e){
+            instance1.printSomething(input.messageError());
+
+        }
+
+        return checkNumberOfTickets();
+    }

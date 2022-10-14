@@ -1,0 +1,33 @@
+public class HandleIdException extends Exception{
+
+    private String message;
+
+
+
+    public HandleIdException(String message1) {
+
+        this.message = message1;
+    }
+    public String getMessage() {
+        return message;
+    }
+       /**
+     * Method Provided by Victor Herrera
+     * Method is designed to check the event ids.
+     * User enters invalid Id exception is handled.
+     * @return a
+     * return valid Id type.
+     * **/
+
+    public int eventId(int a) throws HandleIdException {
+
+        if (a >71) {
+            throw new HandleIdException("Id Entered does not exist Enter Valid Id");
+        } else {
+            return a;
+        }
+    }
+
+
+
+}

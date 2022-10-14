@@ -1,0 +1,26 @@
+public class StringRepo {
+    private String errorMessage;
+
+    public StringRepo(){
+
+    }
+    public StringRepo(String errorMessage) {
+        this.errorMessage = errorMessage;
+    }
+
+    public String getErrorMessage() {
+        return errorMessage;
+    }
+
+    public void setErrorMessage(String errorMessage) {
+        this.errorMessage = errorMessage;
+    }
+    public String  messageError(){
+        String input = "Expecting an integer Value received invalid input";
+        return input;
+    }
+    public String messageInfo(){
+        String info = "Please enter the number of tickets you want:";
+        return info;
+    }
+}
