@@ -1,0 +1,4 @@
+// Copy the following statements to create the tables Student and User in your PERSONAL DB to test this template example.
+
+CREATE TABLE Student(Sid VARCHAR(3) PRIMARY KEY, SfirstName VARCHAR(30), SmiddleName VARCHAR(30), SlastName VARCHAR(30)); 
+CREATE TABLE User(Uusername VARCHAR(30) PRIMARY KEY, Upassword VARCHAR(30)); 
