@@ -1,5 +1,5 @@
-# pa5-christian_gomez_victor_herrera_pa5
-pa5-christian_gomez_victor_herrera_pa5 created by GitHub Classroom
+# pa5-christian_gomez_victor_herrera_Ticketing System Project
+pa5-christian_gomez_victor_herrera_Ticketing System Project created by GitHub Classroom
 
 Authors: Christian A. Gomez & Victor Herrera.
 Profesor: Daniel Mejia.
