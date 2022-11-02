@@ -1,5 +1,5 @@
 # Projects
-•	UTEP Quiz App					   Status: On-Process
+•	UTEP Quiz App					   Status: Completed
 -	A Flutter app that provides multiple Computer Science quizzes. The application consists of a Login, a screen where the user can select the quiz he wants to do, a screen where he will be answering the questions of the selected quiz and a screen giving him the results along with an option to review the quiz.
 
 
