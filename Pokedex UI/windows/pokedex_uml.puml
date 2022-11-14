@@ -1,0 +1,146 @@
+@startuml
+set namespaceSeparator ::
+
+class "pokedex_final_project::firebase_options.dart::DefaultFirebaseOptions" {
+  {static} +FirebaseOptions* web
+  {static} +FirebaseOptions* android
+  {static} +FirebaseOptions* ios
+  {static} +FirebaseOptions* macos
+  {static} +FirebaseOptions* currentPlatform
+}
+
+"pokedex_final_project::firebase_options.dart::DefaultFirebaseOptions" o-- "firebase_core_platform_interface::firebase_core_platform_interface.dart::FirebaseOptions"
+
+class "pokedex_final_project::home_page.dart::HomePage" {
+  +String* title
+  +State<HomePage*>* createState()
+}
+
+"flutter::src::widgets::framework.dart::StatefulWidget" <|-- "pokedex_final_project::home_page.dart::HomePage"
+
+class "pokedex_final_project::home_page.dart::_MyHomePageState" {
+  +User* user
+  +String* url
+  +PokeHub* pokeHub
+  +List<Pokemon*>* userFavoritePokemons
+  +void initState()
+  +dynamic fetchData()
+  +dynamic addFavoritePokemon()
+  +dynamic selectColor()
+  +Widget* build()
+}
+
+"pokedex_final_project::home_page.dart::_MyHomePageState" o-- "firebase_auth::firebase_auth.dart::User"
+"pokedex_final_project::home_page.dart::_MyHomePageState" o-- "pokedex_final_project::pokemon.dart::PokeHub"
+"flutter::src::widgets::framework.dart::State" <|-- "pokedex_final_project::home_page.dart::_MyHomePageState"
+
+class "pokedex_final_project::login.dart::LoginPage" {
+  +_LoginPageState* createState()
+}
+
+"flutter::src::widgets::framework.dart::StatefulWidget" <|-- "pokedex_final_project::login.dart::LoginPage"
+
+class "pokedex_final_project::login.dart::_LoginPageState" {
+  -TextEditingController* _emailController
+  -TextEditingController* _passwordController
+  +Future<dynamic>* logIn()
+  +void dispose()
+  +Widget* build()
+  -Widget* _userTextField()
+  -Widget* _passwordTextField()
+  -Widget* _buttonLogin()
+  -Widget* _buttonRegister()
+}
+
+"pokedex_final_project::login.dart::_LoginPageState" o-- "flutter::src::widgets::editable_text.dart::TextEditingController"
+"flutter::src::widgets::framework.dart::State" <|-- "pokedex_final_project::login.dart::_LoginPageState"
+
+class "pokedex_final_project::main.dart::MyApp" {
+  +Widget* build()
+}
+
+"flutter::src::widgets::framework.dart::StatelessWidget" <|-- "pokedex_final_project::main.dart::MyApp"
+
+class "pokedex_final_project::main_page.dart::MainPage" {
+  +Widget* build()
+}
+
+"flutter::src::widgets::framework.dart::StatelessWidget" <|-- "pokedex_final_project::main_page.dart::MainPage"
+
+class "pokedex_final_project::my_pokemons.dart::MyPokemonsPage" {
+  +List<Pokemon*>* myPokemons
+  +State<MyPokemonsPage*>* createState()
+}
+
+"flutter::src::widgets::framework.dart::StatefulWidget" <|-- "pokedex_final_project::my_pokemons.dart::MyPokemonsPage"
+
+class "pokedex_final_project::my_pokemons.dart::_MyPokemonsPageState" {
+  +Widget* build()
+}
+
+"flutter::src::widgets::framework.dart::State" <|-- "pokedex_final_project::my_pokemons.dart::_MyPokemonsPageState"
+
+class "pokedex_final_project::pokemon.dart::PokeHub" {
+  +List<Pokemon*>* pokemon
+  +Map<String*, dynamic>* toJson()
+}
+
+class "pokedex_final_project::pokemon.dart::Pokemon" {
+  +int* id
+  +String* num
+  +String* name
+  +String* img
+  +List<String*>* type
+  +String* height
+  +String* weight
+  +String* candy
+  +int* candyCount
+  +String* egg
+  +String* spawnChance
+  +String* avgSpawns
+  +String* spawnTime
+  +List<double*>* multipliers
+  +List<String*>* weaknesses
+  +List<NextEvolution*>* nextEvolution
+  +Map<String*, dynamic>* toJson()
+}
+
+class "pokedex_final_project::pokemon.dart::NextEvolution" {
+  +String* num
+  +String* name
+  +Map<String*, dynamic>* toJson()
+}
+
+class "pokedex_final_project::pokemondetail.dart::PokeDetail" {
+  +Pokemon* pokemon
+  +dynamic selectColor()
+  +dynamic bodyWidget()
+  +Widget* build()
+}
+
+"pokedex_final_project::pokemondetail.dart::PokeDetail" o-- "pokedex_final_project::pokemon.dart::Pokemon"
+"flutter::src::widgets::framework.dart::StatelessWidget" <|-- "pokedex_final_project::pokemondetail.dart::PokeDetail"
+
+class "pokedex_final_project::register_screen.dart::RegisterPage" {
+  +State<RegisterPage*>* createState()
+}
+
+"flutter::src::widgets::framework.dart::StatefulWidget" <|-- "pokedex_final_project::register_screen.dart::RegisterPage"
+
+class "pokedex_final_project::register_screen.dart::_MyRegisterPageState" {
+  -TextEditingController* _emailController
+  -TextEditingController* _passwordController
+  -Future<dynamic>* _register()
+  +void dispose()
+  +Widget* build()
+  -Widget* _displayRegisterMessage()
+  -Widget* _userTextField()
+  -Widget* _passwordTextField()
+  -Widget* _buttonCompleteRegistration()
+}
+
+"pokedex_final_project::register_screen.dart::_MyRegisterPageState" o-- "flutter::src::widgets::editable_text.dart::TextEditingController"
+"flutter::src::widgets::framework.dart::State" <|-- "pokedex_final_project::register_screen.dart::_MyRegisterPageState"
+
+
+@enduml
