@@ -2,7 +2,7 @@
 • Pokedex UI App ||                         Status: Completed
 - A Flutter app that simulates a Pokedex/Library of pokemons. This application uses Firebase to store user's information and provides multiple pokemons from an API.
 
-• FlutterBook                             Status: In-Progress
+• FlutterBook      ||                       Status: In-Progress
 - A Flutter app that simulates a Flutter. This app provides multiple functions such as create/edit/delete appointments, Contacts, Tasks, Notes, and Pictures. This app uses multiple tools such as SQLite.
 
 •	UTEP Quiz App		||			   Status: Completed
